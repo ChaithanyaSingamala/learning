@@ -1,0 +1,5 @@
+// the configured options and settings for Visual3D
+#define Project_VERSION_MAJOR @Project_VERSION_MAJOR@
+#define Project_VERSION_MINOR @Project_VERSION_MINOR@
+
+
